@@ -53,7 +53,7 @@
     
 ➤FORK THE REPOSITORY (Repo) 
     <br>
-<a href="https://github.com/Xcelsama/STAR-MD/fork"><img title="STAR" src="https://img.shields.io/badge/FORK STAR-MD?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Xcelsama/STAR-MD/fork"><img title="YUTA" src="https://img.shields.io/badge/FORK STAR-MD?color=black&style=for-the-badge&logo=stackshare"></a>
 
 
 ➤  GET SESSION  ID FOR  ⚔️YUTA-MD⚔️
