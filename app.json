@@ -1,7 +1,7 @@
 {
    "name": "YUTA-MD",
    "version": "1.2.8-beta",
-   "description": "Multi device whatsapp bot by SuhailTechInfo.",
+   "description": "Multi device whatsapp bot by Recoded by Excel and Abdul.",
    "main": "lib/smd.js",
    "type": "commonjs",  
    "scripts": {
