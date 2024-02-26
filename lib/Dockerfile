@@ -18,9 +18,12 @@
  
 
 FROM quay.io/suhailtechinfo/suhail-v2
-RUN git clone https://github.com/abdussomad001/YUTA-MD/root/YUTA
-WORKDIR /root/YUTA/
+RUN git clone https://github.com/abdussomad001/YUTA-MD/root/YUTA-MD
+WORKDIR /root/YUTA-MD/
 RUN npm install
 EXPOSE 8000
 CMD ["npm","start" ] 
+
+
+
 
