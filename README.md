@@ -61,7 +61,7 @@
     
 <a href="https://r.mtdv.me/EXCEL-MDX"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="70" /></a>
 
-<a href='https://yuta-md-qr-scan03-58054a75aa5d.herokuapp.com/' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+<a href='https://yuta-md-qr-scan-709cf3c07de9.herokuapp.com/' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
  
 <a href='https://yuta-md-qr-scan02-13358eca16d6.herokuapp.com/' target="_blank"><img alt='SCAN QR-2' src='https://img.shields.io/badge/Scan_qr-2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
